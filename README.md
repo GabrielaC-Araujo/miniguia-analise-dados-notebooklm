@@ -2,6 +2,8 @@
 
 Projeto prático da DIO explorando o NotebookLM para criar um guia de estudos em Análise de Dados.
 
+**[Acesse aqui o meu Caderno Temático no NotebookLM](https://notebooklm.google.com/notebook/c836fb9d-e07f-451f-bce6-d36e2d453658)**
+
 ---
 
 ## 1. Contexto e Objetivos
